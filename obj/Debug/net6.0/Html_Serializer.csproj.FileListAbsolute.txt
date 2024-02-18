@@ -1,0 +1,17 @@
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\Html_Serializer.exe
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\Html_Serializer.deps.json
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\Html_Serializer.runtimeconfig.json
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\Html_Serializer.dll
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\Html_Serializer.pdb
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.AssemblyInfoInputs.cache
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.AssemblyInfo.cs
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.dll
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\refint\Html_Serializer.dll
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.pdb
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\Html_Serializer.genruntimeconfig.cache
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\obj\Debug\net6.0\ref\Html_Serializer.dll
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\seed\AllTags.json
+C:\Users\user1\OneDrive\מסמכים\Html_Serializer\Html_Serializer\bin\Debug\net6.0\seed\SelfClosingTags.json
